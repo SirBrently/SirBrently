@@ -1,7 +1,7 @@
 - 👋 Hi, Brent
-- 👀 I’m interested in bot development and Web design.
-- 🌱 I’m currently learning Full stack Development\bot development
-- 💞️ I’m looking to collaborate on bots and css projects
+- 👀 INterested .in FullStack and Web3 apps.
+- 🌱 I’m currently learning Full stack Development\Web3 
+- 💞️ I’m looking to collaborate on Web3
 - 📫 How to reach me ibchampion84@gmail.com
 <!---
 SirBrently/SirBrently is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
